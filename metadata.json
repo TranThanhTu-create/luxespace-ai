@@ -1,0 +1,7 @@
+{
+  "name": "Lead Nội Thất",
+  "description": "An AI-powered application that analyzes interior spaces and proposes 3 distinct design concepts to capture high-quality leads.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
